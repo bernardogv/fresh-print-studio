@@ -1,0 +1,28 @@
+{
+  "prompt": "minimalist line art penguin with laptop, simple elegant drawing, black lines on white, modern art style, high quality, centered composition, clean edges, professional illustration",
+  "niche": "coding",
+  "generated": "2026-02-08T09:45:08.845400",
+  "file": "/home/bernardogv/projects/pod-designs/output/2026-02-08/coding/coding_002.png",
+  "resolution": "4096x4096",
+  "model": "flux1-dev-fp8.safetensors",
+  "upscaler": "4x-UltraSharp.pth",
+  "title": "Coding Penguin Minimalist Art",
+  "tags": [
+    "coding",
+    "programmer",
+    "penguin",
+    "laptop",
+    "line art",
+    "minimalist",
+    "digital art",
+    "illustration",
+    "art",
+    "black and white",
+    "modern art",
+    "geometric",
+    "tech",
+    "developer",
+    "cute"
+  ],
+  "description": "A sleek and modern minimalist design featuring a penguin with a laptop \u2013 perfect for coding enthusiasts and tech lovers! This black line art illustration offers a clean and elegant aesthetic, ideal for showcasing your passion for programming and technology. Get your coding penguin today!"
+}

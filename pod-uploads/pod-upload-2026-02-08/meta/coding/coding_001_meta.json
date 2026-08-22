@@ -1,0 +1,28 @@
+{
+  "prompt": "adorable cartoon robot holding coffee character, flat illustration style, vibrant colors, clean design, high quality, centered composition, clean edges, professional illustration",
+  "niche": "coding",
+  "generated": "2026-02-08T09:43:18.763135",
+  "file": "/home/bernardogv/projects/pod-designs/output/2026-02-08/coding/coding_001.png",
+  "resolution": "4096x4096",
+  "model": "flux1-dev-fp8.safetensors",
+  "upscaler": "4x-UltraSharp.pth",
+  "title": "Cute Coding Robot Coffee",
+  "tags": [
+    "coding",
+    "robot",
+    "coffee",
+    "programmer",
+    "developer",
+    "cartoon",
+    "illustration",
+    "flat design",
+    "digital art",
+    "tech",
+    "geek",
+    "nerd",
+    "cute",
+    "gift",
+    "programmer gift"
+  ],
+  "description": "Perfect for coding enthusiasts and tech lovers! This adorable cartoon robot enjoys a cup of coffee, capturing the essence of a programmer's passion.  Get this vibrant, high-quality illustration for your tech gear or as a unique gift for any coder!"
+}
